@@ -1,0 +1,7 @@
+torch==2.2.2
+torchtext==0.17.2
+datasets
+huggingface_hub
+matplotlib
+tqdm
+numpy
